@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Chitwan Bindal</h1>
-<h3 align="center">A fullstack developer from India</h3>
 
 - 💬 Ask me about **MEAN Stack**
 
