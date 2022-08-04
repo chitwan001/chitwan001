@@ -19,7 +19,7 @@
   💬 Ask me about for any help
 
   📫 How to reach me:  
-  <a href="mailto:chitwan001@gmail.com"><img src="https://badgen.net/badge/gmail/chitwan001@gmail.com/blue?icon=gmail"/></a>
+  <a href="mailto:chitwan001@gmail.com"><img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 
 
 ## 🌐Socials
