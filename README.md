@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Computer+Science+Student;MERN+%7C+MEAN+%7C+PHP+%7C+MySQL;UI%2FUX+Designing"></a>
+  <a href="https://github.com/CodeWhiteWeb/CodeWhiteWeb"><img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;Computer+Science+Student;MERN+%7C+MEAN+%7C+MySQL;UI%2FUX+Designing"></a>
 </p>
 
 ---
